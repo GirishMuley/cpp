@@ -14,6 +14,6 @@ int main(){
     int a = 10,b=20;
     sum(a,b);
     float c = 3.12,d = 5.12;
-    sum(c,d);
+    sum(c,d); 
     return 0;
 }
